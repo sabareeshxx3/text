@@ -12,4 +12,4 @@
 ---
 *this is my portfolio website* [CLICK HERE](https://itsmesreejith.github.io/portfolio.io/)
 
-![alt text]()
+![alt text](cr7.png.jpg)
